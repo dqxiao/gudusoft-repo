@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>gudusoft.gsqlparser</groupId>
+  <artifactId>gsqlparser</artifactId>
+  <versioning>
+    <release>current</release>
+    <versions>
+      <version>current</version>
+    </versions>
+    <lastUpdated>20160606190304</lastUpdated>
+  </versioning>
+</metadata>
